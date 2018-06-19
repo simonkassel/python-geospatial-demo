@@ -1,2 +1,3 @@
-# python-geospatial-demo
-Intro to GeoSpatial Analysis with Python
+# GeoSpatial Analysis in Python
+
+Demo for Azavea's 2018 summer technical workshop
